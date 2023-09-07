@@ -39,7 +39,7 @@
                     <div class = "flex gap-x-8 items-center border-2 border-red-600 p-8 rounded-full group transition-all delay-100 hover:bg-red-600">
                         <i class="fa-brands fa-laravel text-8xl animate-pulse text-red-600 transition-all delay-200 group-hover:text-white"></i>
                         <h2 class = "text-8xl animate-pulse text-red-600 transition-all delay-200 group-hover:text-white">
-                            Projects
+                            About Me
                         </h2>
                     </div>
                 </div>
